@@ -1,11 +1,11 @@
 {
-    "name": "Buzu Camaçari",
-    "short_name": "Buzu Camaçari",
+    "name": "BuzuCamaçari",
+    "short_name": "BuzuCamaçari",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Horários dos ônibus de Camaçari",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
