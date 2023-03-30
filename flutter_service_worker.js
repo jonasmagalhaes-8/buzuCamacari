@@ -26,11 +26,12 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
+"icon.png": "8c45fa913228e2af5ef9aab185b88c18",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "08ddd56c7309724cf8e4a693b9fb3677",
-"/": "08ddd56c7309724cf8e4a693b9fb3677",
-"main.dart.js": "ebc514f6ddbaebf15a573f88b526e077",
+"index.html": "5b7a4c38ca9f6e4761055c86e7876bd4",
+"/": "5b7a4c38ca9f6e4761055c86e7876bd4",
+"main.dart.js": "5da4ff52ef5f3fa686cea8ae3f512646",
 "manifest.json": "1755279c210e77fb635334cff67f06a6",
 "version.json": "90f1e6e6e2dfb6e2a2455954f33ed100"
 };

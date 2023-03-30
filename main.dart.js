@@ -61172,33 +61172,33 @@ return new A.Ta(new A.bD(null,t.fS),r,p,o,q,s,new A.ain(new A.air(A.aCR(null))),
 A.Ta.prototype={
 b0(){this.bw()
 $.aq.as$.push(new A.at7(this))},
-S(a,a0){var s,r,q,p,o,n,m,l,k,j=this,i=4293653242,h=null,g="Poppins",f=4280953386,e=A.aDf("assets/images/arvoreCamacari.png",B.BP,100,100),d=A.jI("Buzu Cama\xe7ari",h,h,h,A.jL(A.hW(g,(A.aL(a0).as.a===B.a4?A.fb():A.fk()).gfA(),h,14,h,B.aC,h,h),new A.H(f),g,30,h),h,h),c=t.w,b=a0.a2(c).f
-b=A.aD3(new A.H(i),0,0,2,new A.H(i),40,!0,"Selecione aqui o seu trajeto:",new A.dg(12,4,12,4),j.gJQ(),j.e,A.jL(A.hW(g,(A.aL(a0).as.a===B.a4?A.fb():A.fk()).gfA(),h,14,h,B.aC,h,h),new A.H(f),g,18,h),b.a.a)
-s=a0.a2(c).f
-s=A.aD3(new A.H(i),0,0,2,new A.H(i),40,!0,"Selecione aqui os hor\xe1rios que quer ver",new A.dg(12,4,12,4),j.gJR(),j.Q,A.jL(A.hW(g,(A.aL(a0).as.a===B.a4?A.fb():A.fk()).gfA(),h,14,h,B.aC,h,h),new A.H(f),g,14,h),s.a.a)
-r=A.jI("Seg a Sexta:",h,h,h,A.jL(A.hW(g,(A.aL(a0).as.a===B.a4?A.fb():A.fk()).gfA(),h,14,h,B.aC,h,h),new A.H(f),g,14,h),h,h)
-q=a0.a2(c).f
+S(a0,a1){var s,r,q,p,o,n,m,l,k,j=this,i=4293653242,h=null,g="Poppins",f=4280953386,e=4283337989,d=A.aDf("assets/images/arvoreCamacari.png",B.BP,100,100),c=A.jI("Buzu Cama\xe7ari",h,h,h,A.jL(A.hW(g,(A.aL(a1).as.a===B.a4?A.fb():A.fk()).gfA(),h,14,h,B.aC,h,h),new A.H(f),g,30,h),h,h),b=t.w,a=a1.a2(b).f
+a=A.aD3(new A.H(i),0,0,2,new A.H(i),40,!0,"Aperte aqui para mostrar os trajetos",new A.dg(12,4,12,4),j.gJQ(),j.e,A.jL(A.hW(g,(A.aL(a1).as.a===B.a4?A.fb():A.fk()).gfA(),h,14,h,B.aC,h,h),new A.H(e),g,18,h),a.a.a)
+s=a1.a2(b).f
+s=A.aD3(new A.H(i),0,0,2,new A.H(i),40,!0,"Aperte aqui para mostrar os hor\xe1rios",new A.dg(12,4,12,4),j.gJR(),j.Q,A.jL(A.hW(g,(A.aL(a1).as.a===B.a4?A.fb():A.fk()).gfA(),h,14,h,B.aC,h,h),new A.H(e),g,14,h),s.a.a)
+r=A.jI("Seg a Sexta:",h,h,h,A.jL(A.hW(g,(A.aL(a1).as.a===B.a4?A.fb():A.fk()).gfA(),h,14,h,B.aC,h,h),new A.H(f),g,14,h),h,h)
+q=a1.a2(b).f
 p=A.acq(new A.H(f),1)
 o=j.x
 n=A.ae(o).h("as<1,iX*>")
 m=t.Ma
-q=A.tr(A.b([r,A.f8(h,A.aje(A.aj(new A.as(o,new A.asY(a0),n),!0,n.h("b7.E")),B.aU,B.bh,!1),h,h,new A.dS(new A.H(i),h,p,h,h,h,B.aR),135,h,h,q.a.a*0.3)],m),B.dc,B.yZ,B.fy)
-r=A.jI("S\xe1bado:",h,h,h,A.jL(A.hW(g,(A.aL(a0).as.a===B.a4?A.fb():A.fk()).gfA(),h,14,h,B.aC,h,h),new A.H(f),g,14,h),h,h)
-p=a0.a2(c).f
+q=A.tr(A.b([r,A.f8(h,A.aje(A.aj(new A.as(o,new A.asY(a1),n),!0,n.h("b7.E")),B.aU,B.bh,!1),h,h,new A.dS(new A.H(i),h,p,h,h,h,B.aR),135,h,h,q.a.a*0.3)],m),B.dc,B.yZ,B.fy)
+r=A.jI("S\xe1bado:",h,h,h,A.jL(A.hW(g,(A.aL(a1).as.a===B.a4?A.fb():A.fk()).gfA(),h,14,h,B.aC,h,h),new A.H(f),g,14,h),h,h)
+p=a1.a2(b).f
 o=A.acq(new A.H(f),1)
 n=j.y
 l=A.ae(n).h("as<1,iX*>")
-p=A.tr(A.b([r,A.f8(h,A.aje(A.aj(new A.as(n,new A.asZ(a0),l),!0,l.h("b7.E")),B.aU,B.bh,!1),h,h,new A.dS(new A.H(i),h,o,h,h,h,B.aR),135,h,h,p.a.a*0.3)],m),B.e9,B.yZ,B.cL)
-r=A.jI("Domingo:",h,h,h,A.jL(A.hW(g,(A.aL(a0).as.a===B.a4?A.fb():A.fk()).gfA(),h,14,h,B.aC,h,h),new A.H(f),g,14,h),h,h)
-o=a0.a2(c).f
+p=A.tr(A.b([r,A.f8(h,A.aje(A.aj(new A.as(n,new A.asZ(a1),l),!0,l.h("b7.E")),B.aU,B.bh,!1),h,h,new A.dS(new A.H(i),h,o,h,h,h,B.aR),135,h,h,p.a.a*0.3)],m),B.e9,B.yZ,B.cL)
+r=A.jI("Domingo:",h,h,h,A.jL(A.hW(g,(A.aL(a1).as.a===B.a4?A.fb():A.fk()).gfA(),h,14,h,B.aC,h,h),new A.H(f),g,14,h),h,h)
+o=a1.a2(b).f
 n=A.acq(new A.H(f),1)
 l=j.z
 k=A.ae(l).h("as<1,iX*>")
-o=A.azl(A.b([new A.h3(new A.dg(0,0,5,0),q,h),new A.h3(new A.dg(0,0,5,0),p,h),A.tr(A.b([r,A.f8(h,A.aje(A.aj(new A.as(l,new A.at_(a0),k),!0,k.h("b7.E")),B.aU,B.bh,!1),h,h,new A.dS(new A.H(i),h,n,h,h,h,B.aR),135,h,h,o.a.a*0.3)],m),B.e9,B.cK,B.cL)],m),B.cK,B.cL)
-n=a0.a2(c).f
-c=a0.a2(c).f
+o=A.azl(A.b([new A.h3(new A.dg(0,0,5,0),q,h),new A.h3(new A.dg(0,0,5,0),p,h),A.tr(A.b([r,A.f8(h,A.aje(A.aj(new A.as(l,new A.at_(a1),k),!0,k.h("b7.E")),B.aU,B.bh,!1),h,h,new A.dS(new A.H(i),h,n,h,h,h,B.aR),135,h,h,o.a.a*0.3)],m),B.e9,B.cK,B.cL)],m),B.cK,B.cL)
+n=a1.a2(b).f
+b=a1.a2(b).f
 k=A.aDf("assets/images/8493.jpg",h,h,h)
-return new A.Rp(A.aQc(A.ayM(h,A.tr(A.b([e,d,A.tr(A.b([b,s,new A.h3(new A.dg(12,0,12,0),A.tr(A.b([o,A.f8(h,A.jI("\nDesenvolvido por Jonas Magalh\xe3es Silva\nContatos: jonasmagalhaes.8@gmail.com / 71983391878",h,h,h,A.jL(A.hW(g,(A.aL(a0).as.a===B.a4?A.fb():A.fk()).gfA(),h,14,h,B.aC,h,h),new A.H(f),"Raleway",11,B.aB),B.d1,h),h,h,new A.dS(new A.H(i),new A.YL(k.c,B.BO),h,h,h,h,B.aR),c.a.b*0.49,h,h,n.a.a)],m),B.dc,B.cK,B.cL),h)],m),B.dc,B.cK,B.fy)],m),B.e9,B.cK,B.cL),B.bT,!1,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h),!0),new A.H(i),j.d)},
+return new A.Rp(A.aQc(A.ayM(h,A.tr(A.b([d,c,A.tr(A.b([a,s,new A.h3(new A.dg(12,0,12,0),A.tr(A.b([o,A.f8(h,A.jI("\nDesenvolvido por Jonas Magalh\xe3es Silva\nContatos: jonasmagalhaes.8@gmail.com / 71983391878",h,h,h,A.jL(A.hW(g,(A.aL(a1).as.a===B.a4?A.fb():A.fk()).gfA(),h,14,h,B.aC,h,h),new A.H(f),"Raleway",10,B.aB),B.d1,h),h,h,new A.dS(new A.H(i),new A.YL(k.c,B.BO),h,h,h,h,B.aR),b.a.b*0.49,h,h,n.a.a)],m),B.dc,B.cK,B.cL),h)],m),B.dc,B.cK,B.fy)],m),B.e9,B.cK,B.cL),B.bT,!1,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h),!0),new A.H(i),j.d)},
 oA(a){var s=0,r=A.a3(t.z),q=this,p,o,n,m
 var $async$oA=A.a4(function(b,c){if(b===1)return A.a0(c,r)
 while(true)switch(s){case 0:B.d.sk(q.x,0)
