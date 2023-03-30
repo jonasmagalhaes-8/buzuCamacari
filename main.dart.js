@@ -61173,9 +61173,9 @@ A.Ta.prototype={
 b0(){this.bw()
 $.aq.as$.push(new A.at7(this))},
 S(a,a0){var s,r,q,p,o,n,m,l,k,j=this,i=4293653242,h=null,g="Poppins",f=4280953386,e=A.aDf("assets/images/arvoreCamacari.png",B.BP,100,100),d=A.jI("Buzu Cama\xe7ari",h,h,h,A.jL(A.hW(g,(A.aL(a0).as.a===B.a4?A.fb():A.fk()).gfA(),h,14,h,B.aC,h,h),new A.H(f),g,30,h),h,h),c=t.w,b=a0.a2(c).f
-b=A.aD3(new A.H(i),0,0,2,new A.H(i),40,!0,"Selecione aqui o seu trajeto:",new A.dg(12,4,12,4),j.gJQ(),j.e,A.jL(A.hW(g,(A.aL(a0).as.a===B.a4?A.fb():A.fk()).gfA(),h,14,h,B.aC,h,h),new A.H(f),g,18,h),b.a.a*0.9)
+b=A.aD3(new A.H(i),0,0,2,new A.H(i),40,!0,"Selecione aqui o seu trajeto:",new A.dg(12,4,12,4),j.gJQ(),j.e,A.jL(A.hW(g,(A.aL(a0).as.a===B.a4?A.fb():A.fk()).gfA(),h,14,h,B.aC,h,h),new A.H(f),g,18,h),b.a.a)
 s=a0.a2(c).f
-s=A.aD3(new A.H(i),0,0,2,new A.H(i),40,!0,"Selecione aqui os hor\xe1rios que quer ver",new A.dg(12,4,12,4),j.gJR(),j.Q,A.jL(A.hW(g,(A.aL(a0).as.a===B.a4?A.fb():A.fk()).gfA(),h,14,h,B.aC,h,h),new A.H(f),g,14,h),s.a.a*0.9)
+s=A.aD3(new A.H(i),0,0,2,new A.H(i),40,!0,"Selecione aqui os hor\xe1rios que quer ver",new A.dg(12,4,12,4),j.gJR(),j.Q,A.jL(A.hW(g,(A.aL(a0).as.a===B.a4?A.fb():A.fk()).gfA(),h,14,h,B.aC,h,h),new A.H(f),g,14,h),s.a.a)
 r=A.jI("Seg a Sexta:",h,h,h,A.jL(A.hW(g,(A.aL(a0).as.a===B.a4?A.fb():A.fk()).gfA(),h,14,h,B.aC,h,h),new A.H(f),g,14,h),h,h)
 q=a0.a2(c).f
 p=A.acq(new A.H(f),1)
