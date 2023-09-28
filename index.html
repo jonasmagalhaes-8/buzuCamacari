@@ -40,6 +40,8 @@
       });
     }
 
+    window.flutterWebRenderer = "html";
+
     if (!sessionStorage.getItem('reloaded')) {
       sessionStorage.setItem('reloaded', 'true');
       location.reload();
