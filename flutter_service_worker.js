@@ -6,6 +6,7 @@ const RESOURCES = {
   "assets/AssetManifest.json": "03ec8081156dfa3e2b53cd646b817f4a",
 "assets/assets/images/8493.jpg": "4158a0c914d626a870232d03052fcb37",
 "assets/assets/images/arvoreCamacari.png": "2a981858ce726af699d1c3dbcb29837f",
+"assets/assets/images/backgroundImage.png": "4147249af12335b4dd63cbc022dc674d",
 "assets/assets/images/favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
@@ -22,9 +23,9 @@ const RESOURCES = {
 "flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
 "icons/Icon-192.png": "830c034cc436bfbb2101809389039c04",
 "icons/Icon-512.png": "d44721455acbf409ac239cbf82bb8ea6",
-"index.html": "f201f227d0063e5ac5159b3d949284ee",
-"/": "f201f227d0063e5ac5159b3d949284ee",
-"main.dart.js": "6315f8bb5783254c36dec83e4480fba5",
+"index.html": "bbc45a2e7283d38512fbc531f14ee3ce",
+"/": "bbc45a2e7283d38512fbc531f14ee3ce",
+"main.dart.js": "0b56f23d47b6a8432b9b094a2902359c",
 "manifest.json": "efb35f11c39213b4bdb60a856bb61848",
 "version.json": "86f8db16a2087f8cb28045e9ee5dc23e"
 };

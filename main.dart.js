@@ -30330,7 +30330,7 @@ r=A.aa1(new A.F(n),1)
 j=A.afE(new A.jV(new A.aT(12,0,12,0),A.qU(A.b([A.ab_(A.b([g,i,A.qU(A.b([s,A.fs(o,q.Zp(),o,o,new A.ds(new A.F(p),o,r,B.a7,o,o,B.am),110,new A.aT(0,2,0,0),new A.aT(0,0,0,0),f.a.a*0.3)],e),B.bB,B.eZ,B.bK)],e),B.bB,B.ct,B.dp)],e),B.ch,B.ct,B.dp),o),j)
 f=a.Y(h).f
 h=a.Y(h).f
-i=A.anS(o,o,new A.mV("assets/images/8493.jpg",o,o))
+i=A.anS(o,o,new A.mV("assets/images/backgroundImage.png",o,o))
 return new A.uy(new A.u7(new A.a4p(),A.qU(A.b([new A.rF(new A.mV("assets/images/arvoreCamacari.png",o,o),100,100,B.va,o),m,A.qU(A.b([l,k,j,A.fs(o,A.f8("\nDesenvolvido por Jonas Magalh\xe3es Silva\nContatos: jonasmagalhaes.8@gmail.com / 71983391878",o,B.au,o,A.cb(o,o,new A.F(n),o,o,o,o,o,o,o,o,10,B.ao,o,B.r,o,o,!0,o,o,o,o,o,o,o,o),B.b7,o),o,o,new A.ds(new A.F(p),new A.Ay(i,B.v9),o,o,o,o,B.am),h.a.b*0.46,B.ay,o,f.a.a)],e),B.ch,B.ct,B.bK)],e),B.bB,B.ct,B.dp),o),new A.F(p),o)},
 Zp(){return A.aaG(new A.a4z(this),this.at.length,B.ay,B.aO)},
 Zq(){return A.aaG(new A.a4A(this),this.as.length,B.ay,B.aO)},
