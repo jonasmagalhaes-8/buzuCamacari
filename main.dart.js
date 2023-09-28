@@ -37064,7 +37064,7 @@ j=A.ajt(new A.ks(new A.aU(12,0,12,0),A.rJ(A.a([A.aep(A.a([g,i,A.rJ(A.a([s,A.fJ(o
 f=a.a_(h).f
 h=a.a_(h).f
 i=A.asp(o,o,new A.nB("assets/images/8493.jpg",o,o))
-return new A.vF(new A.vd(new A.a7A(),A.rJ(A.a([new A.tA(new A.nB("assets/images/arvoreCamacari.png",o,o),100,100,B.wp,o),m,A.rJ(A.a([l,k,j,A.fJ(o,A.fq("\nVers\xe3o 2.0\nDesenvolvido por Jonas Magalh\xe3es Silva\nContatos: jonasmagalhaes.8@gmail.com / 71983391878",o,B.aC,o,A.cm(o,o,new A.I(n),o,o,o,o,o,o,o,o,10,B.ao,o,B.u,o,o,!0,o,o,o,o,o,o,o,o),B.bk,o),o,o,new A.dK(new A.I(p),new A.BO(i,B.wo),o,o,o,o,B.at),h.a.b*0.46,B.aG,o,f.a.a)],e),B.cz,B.cT,B.c_)],e),B.bQ,B.cT,B.e6),o),new A.I(p),o)},
+return new A.vF(new A.vd(new A.a7A(),A.rJ(A.a([new A.tA(new A.nB("assets/images/arvoreCamacari.png",o,o),100,100,B.wp,o),m,A.rJ(A.a([l,k,j,A.fJ(o,A.fq("\nDesenvolvido por Jonas Magalh\xe3es Silva\nContatos: jonasmagalhaes.8@gmail.com / 71983391878",o,B.aC,o,A.cm(o,o,new A.I(n),o,o,o,o,o,o,o,o,10,B.ao,o,B.u,o,o,!0,o,o,o,o,o,o,o,o),B.bk,o),o,o,new A.dK(new A.I(p),new A.BO(i,B.wo),o,o,o,o,B.at),h.a.b*0.46,B.aG,o,f.a.a)],e),B.cz,B.cT,B.c_)],e),B.bQ,B.cT,B.e6),o),new A.I(p),o)},
 a2s(){return A.ae6(new A.a7K(this),this.ax.length,B.aG,B.aX)},
 a2t(){return A.ae6(new A.a7L(this),this.at.length,B.aG,B.aX)},
 a2u(){return A.ae6(new A.a7M(this),this.as.length,B.aG,B.aX)},
