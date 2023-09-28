@@ -36,16 +36,11 @@
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('flutter-first-frame', function () {
-        navigator.serviceWorker.register('flutter_service_worker.js?v=4100287772');
+        navigator.serviceWorker.register('flutter_service_worker.js?v=3045177934');
       });
     }
 
     window.flutterWebRenderer = "html";
-
-    if (!sessionStorage.getItem('reloaded')) {
-      sessionStorage.setItem('reloaded', 'true');
-      location.reload();
-    }
 
   </script>
   
