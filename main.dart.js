@@ -33439,7 +33439,7 @@ case 3:i=c
 h=A.c_(J.bi(i.a,"jsonLocalHorariosItinerarios"))
 p=5
 s=8
-return A.Z(n.a.Ag(0,"https://vocal-rarely-treefrog.ngrok-free.app/buzucamacari/horarioitinerario"+("/"+a),t.z),$async$fL)
+return A.Z(n.a.Ag(0,"https://199.253.30.134:8080/buzucamacari/horarioitinerario"+("/"+a),t.z),$async$fL)
 case 8:m=c
 l=B.ac.rd(m.a,null)
 if(h==null||!J.e(l,h))i.F2("String","jsonLocalHorariosItinerarios",l)
@@ -33481,7 +33481,7 @@ case 3:i=b
 h=A.c_(J.bi(i.a,"jsonLocalItinerarios"))
 p=5
 s=8
-return A.Z(n.a.Ag(0,"https://vocal-rarely-treefrog.ngrok-free.app/buzucamacari/itinerarios",t.z),$async$fM)
+return A.Z(n.a.Ag(0,"https://199.253.30.134:8080/buzucamacari/itinerarios",t.z),$async$fM)
 case 8:m=b
 l=B.ac.rd(m.a,null)
 if(h==null||!J.e(l,h))i.F2("String","jsonLocalItinerarios",l)
