@@ -40501,7 +40501,7 @@ q=f.x
 p=t.p
 q=A.O8(new A.bB(new A.a5(7.8,5,12,5),A.hb(A.b([A.kk(f.Fn("Seg a Sexta:",f.ch)),B.xJ,A.kk(f.Fn("S\xe1bado:",f.CW)),B.xJ,A.kk(f.Fn("Domingo:",f.cx))],p),B.aE,B.ek,B.a2),e),q)
 o=f.x
-n=A.hb(A.b([A.bq("\u2193 Deslize/role nos hor\xe1rios e mensagens para ver tudo \u2191",e,B.bk,e,A.br(e,e,A.X(c),e,e,e,e,e,d,e,e,13,e,e,B.a8,e,e,!0,e,0.2,e,e,e,e,e,e),B.bD,e)],p),B.a_,B.j8,B.a2)
+n=A.hb(A.b([A.bq("\u2193 Deslizar nos hor\xe1rios e mensagens para ver tudo \u2191",e,B.bk,e,A.br(e,e,A.X(c),e,e,e,e,e,d,e,e,13,e,e,B.a8,e,e,!0,e,0.2,e,e,e,e,e,e),B.bD,e)],p),B.a_,B.j8,B.a2)
 m=f.fy
 m=m!=null&&J.k7(m)
 l=f.c
